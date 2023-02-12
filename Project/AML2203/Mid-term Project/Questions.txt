@@ -1,0 +1,24 @@
+Top cause of death globally: Ischaemic heart disease
+One pf the causes of Ischaemic heart disease: Diabetes 
+
+Correlation between Diabetes and Ischaemic heart disease
+* Which income grouping is prone to Ischaemic heart disease? Diabetes?
+* Which age group has the highest number of deaths for Ischaemic heart disease and Diabetes
+* Which sex group has the highest number of deaths  for Ischaemic heart disease and Diabetes
+* Check the trend, is it increasing over the years?
+
+
+Definition: 
+* Age-standardized mortality rate is a weighted average of the age-specific mortality rates per 100 000 persons, where the weights are the proportions of persons in the corresponding age groups of the WHO standard population.
+
+
+Need to prove
+* https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates
+* https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death
+
+References:
+* https://platform.who.int/mortality/themes/theme-details/MDB/all-causes
+* https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups
+* https://www.healthgrades.com/right-care/heart-health/ischemic-heart-disease
+* https://www.statcan.gc.ca/en/dai/btd/asr
+* https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section3.html
