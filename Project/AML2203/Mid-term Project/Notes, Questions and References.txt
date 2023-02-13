@@ -22,3 +22,4 @@ References:
 * https://www.healthgrades.com/right-care/heart-health/ischemic-heart-disease
 * https://www.statcan.gc.ca/en/dai/btd/asr
 * https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section3.html
+* https://www.statcan.gc.ca/en/concepts/definitions/age2

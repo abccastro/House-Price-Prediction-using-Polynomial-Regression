@@ -11,39 +11,39 @@ AS,Asia,BHR,Bahrain,High Income
 NAC,North America and the Caribbean,BRB,Barbados,High Income
 EU,Europe,BLR,Belarus,Upper Middle Income
 EU,Europe,BEL,Belgium,High Income
-CSA,Central and South America,BLZ,Belize,Upper Middle Income
+NAC,North America and the Caribbean,CAN,Canada,High Income
 EU,Europe,BIH,Bosnia and Herzegovina,Upper Middle Income
-CSA,Central and South America,BRA,Brazil,Upper Middle Income
+CSA,Central and South America,CHL,Chile,High Income
 AS,Asia,BRN,Brunei Darussalam,High Income
 EU,Europe,BGR,Bulgaria,Upper Middle Income
-AF,Africa,CPV,Cabo Verde,Low Middle Income
-NAC,North America and the Caribbean,CAN,Canada,High Income
-CSA,Central and South America,CHL,Chile,High Income
+NAC,North America and the Caribbean,PRI,Puerto Rico,High Income
+AF,Africa,SYC,Seychelles,High Income
+NAC,North America and the Caribbean,TTO,Trinidad and Tobago,High Income
 AS,Asia,HKG,"China, Hong Kong SAR",Upper Middle Income
-CSA,Central and South America,COL,Colombia,Upper Middle Income
-CSA,Central and South America,CRI,Costa Rica,Upper Middle Income
+NAC,North America and the Caribbean,USA,United States of America,High Income
+CSA,Central and South America,URY,Uruguay,High Income
 EU,Europe,HRV,Croatia,Upper Middle Income
-NAC,North America and the Caribbean,CUB,Cuba,Upper Middle Income
+AF,Africa,CPV,Cabo Verde,Low Middle Income
 AS,Asia,CYP,Cyprus,High Income
 EU,Europe,CZE,Czechia,High Income
 EU,Europe,DNK,Denmark,High Income
-NAC,North America and the Caribbean,DMA,Dominica,Upper Middle Income
-NAC,North America and the Caribbean,DOM,Dominican Republic,Upper Middle Income
-CSA,Central and South America,ECU,Ecuador,Upper Middle Income
 AF,Africa,EGY,Egypt,Low Middle Income
 CSA,Central and South America,SLV,El Salvador,Low Middle Income
+CSA,Central and South America,GTM,Guatemala,Low Middle Income
+CSA,Central and South America,NIC,Nicaragua,Low Middle Income
+AF,Africa,STP,Sao Tome and Principe,Low Middle Income
 EU,Europe,EST,Estonia,High Income
 OA,Oceania,FJI,Fiji,Upper Middle Income
 EU,Europe,FIN,Finland,High Income
 EU,Europe,FRA,France,High Income
-CSA,Central and South America,GUF,French Guiana,
+CSA,Central and South America,BLZ,Belize,Upper Middle Income
 AS,Asia,GEO,Georgia,Upper Middle Income
 EU,Europe,DEU,Germany,High Income
 EU,Europe,GRC,Greece,High Income
-NAC,North America and the Caribbean,GRD,Grenada,Upper Middle Income
-NAC,North America and the Caribbean,GLP,Guadeloupe,
-CSA,Central and South America,GTM,Guatemala,Low Middle Income
-CSA,Central and South America,GUY,Guyana,Upper Middle Income
+CSA,Central and South America,BRA,Brazil,Upper Middle Income
+CSA,Central and South America,COL,Colombia,Upper Middle Income
+CSA,Central and South America,CRI,Costa Rica,Upper Middle Income
+NAC,North America and the Caribbean,CUB,Cuba,Upper Middle Income
 EU,Europe,HUN,Hungary,High Income
 EU,Europe,ISL,Iceland,High Income
 AS,Asia,IRN,Iran (Islamic Republic of),Upper Middle Income
@@ -51,7 +51,7 @@ AS,Asia,IRQ,Iraq,Upper Middle Income
 EU,Europe,IRL,Ireland,High Income
 AS,Asia,ISR,Israel,High Income
 EU,Europe,ITA,Italy,High Income
-NAC,North America and the Caribbean,JAM,Jamaica,Upper Middle Income
+NAC,North America and the Caribbean,DMA,Dominica,Upper Middle Income
 AS,Asia,JPN,Japan,High Income
 AS,Asia,JOR,Jordan,Low Middle Income
 AS,Asia,KAZ,Kazakhstan,Upper Middle Income
@@ -63,53 +63,53 @@ EU,Europe,LTU,Lithuania,High Income
 EU,Europe,LUX,Luxembourg,High Income
 AS,Asia,MDV,Maldives,Upper Middle Income
 EU,Europe,MLT,Malta,High Income
-NAC,North America and the Caribbean,MTQ,Martinique,
-AF,Africa,MUS,Mauritius,Upper Middle Income
-AF,Africa,MYT,Mayotte,
-CSA,Central and South America,MEX,Mexico,Upper Middle Income
+NAC,North America and the Caribbean,DOM,Dominican Republic,Upper Middle Income
+CSA,Central and South America,ECU,Ecuador,Upper Middle Income
+NAC,North America and the Caribbean,GRD,Grenada,Upper Middle Income
+CSA,Central and South America,GUY,Guyana,Upper Middle Income
 AS,Asia,MNG,Mongolia,Low Middle Income
 EU,Europe,MNE,Montenegro,Upper Middle Income
 EU,Europe,NLD,Netherlands,High Income
 OA,Oceania,NZL,New Zealand,High Income
-CSA,Central and South America,NIC,Nicaragua,Low Middle Income
+NAC,North America and the Caribbean,JAM,Jamaica,Upper Middle Income
 EU,Europe,MKD,North Macedonia,Upper Middle Income
 EU,Europe,NOR,Norway,High Income
+AF,Africa,MUS,Mauritius,Upper Middle Income
+CSA,Central and South America,MEX,Mexico,Upper Middle Income
 CSA,Central and South America,PAN,Panama,Upper Middle Income
-CSA,Central and South America,PRY,Paraguay,Upper Middle Income
-CSA,Central and South America,PER,Peru,Upper Middle Income
 AS,Asia,PHL,Philippines,Low Middle Income
 EU,Europe,POL,Poland,High Income
 EU,Europe,PRT,Portugal,High Income
-NAC,North America and the Caribbean,PRI,Puerto Rico,High Income
-AF,Africa,REU,Reunion,
+CSA,Central and South America,PRY,Paraguay,Upper Middle Income
+CSA,Central and South America,PER,Peru,Upper Middle Income
 AS,Asia,KOR,Republic of Korea,High Income
 EU,Europe,MDA,Republic of Moldova,Low Middle Income
 EU,Europe,ROU,Romania,Upper Middle Income
 EU,Europe,RUS,Russian Federation,Upper Middle Income
-NAC,North America and the Caribbean,KNA,Saint Kitts and Nevis,
 NAC,North America and the Caribbean,LCA,Saint Lucia,Upper Middle Income
 NAC,North America and the Caribbean,VCT,Saint Vincent and the Grenadines,Upper Middle Income
-AF,Africa,STP,Sao Tome and Principe,Low Middle Income
+AF,Africa,ZAF,South Africa,Upper Middle Income
+CSA,Central and South America,SUR,Suriname,Upper Middle Income
 EU,Europe,SRB,Serbia,Upper Middle Income
-AF,Africa,SYC,Seychelles,High Income
+CSA,Central and South America,VEN,Venezuela,Upper Middle Income
 AS,Asia,SGP,Singapore,High Income
 EU,Europe,SVK,Slovakia,High Income
 EU,Europe,SVN,Slovenia,High Income
-AF,Africa,ZAF,South Africa,Upper Middle Income
+CSA,Central and South America,GUF,French Guiana,
 EU,Europe,ESP,Spain,High Income
 AS,Asia,LKA,Sri Lanka,Upper Middle Income
-CSA,Central and South America,SUR,Suriname,Upper Middle Income
+NAC,North America and the Caribbean,GLP,Guadeloupe,
 EU,Europe,SWE,Sweden,High Income
 EU,Europe,CHE,Switzerland,High Income
 AS,Asia,SYR,Syrian Arab Republic,Low Middle Income
 AS,Asia,TJK,Tajikistan,Low Middle Income
 AS,Asia,THA,Thailand,Upper Middle Income
-NAC,North America and the Caribbean,TTO,Trinidad and Tobago,High Income
+NAC,North America and the Caribbean,MTQ,Martinique,
 AS,Asia,TUR,Turkey,Upper Middle Income
 AS,Asia,TKM,Turkmenistan,Upper Middle Income
 EU,Europe,UKR,Ukraine,Low Middle Income
 EU,Europe,GBR,United Kingdom,High Income
-NAC,North America and the Caribbean,USA,United States of America,High Income
-CSA,Central and South America,URY,Uruguay,High Income
+AF,Africa,MYT,Mayotte,
+AF,Africa,REU,Reunion,
 AS,Asia,UZB,Uzbekistan,Low Middle Income
-CSA,Central and South America,VEN,Venezuela,Upper Middle Income
+NAC,North America and the Caribbean,KNA,Saint Kitts and Nevis,High Income
