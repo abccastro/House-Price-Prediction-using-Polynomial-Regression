@@ -18,7 +18,7 @@ pip install seaborn
 ```
 
 ## Program Execution
-Run the Jupyter file
+Run the Jupyter Notebook
 ```bash
 Data Analysis on Ischaemic Heart Disease.ipynb
 ```
