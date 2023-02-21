@@ -1,11 +1,8 @@
-# Data Analysis on Ischaemic Heart Disease
+# Heart Disease Prediction
 
-Data analysis on trends/patterns on the death rate of Ischaemic Heart Disease for each income group and gender over the last few years (1950-2020). In addition, a model was developed, trained and tested to get the probability of a particular record to fall into a particular age category. Logistic Regression for model creation.
+Created a model to get the probability of heart disease given the key indicators of the illness. Logistic Regression algorithm is used to train and test the model.
 
-The datasets are taken from the following sources
--	[WHO's interactive platform for mortality data](https://platform.who.int/mortality/themes/theme-details/topics/indicator-groups/indicator-group-details/MDB/ischaemic-heart-disease)
--	[WHO methods and data sources of country-level causes of death (p. 49)](https://www.who.int/docs/default-source/gho-documents/global-health-estimates/ghe2019_cod_methods.pdf)
-
+The datasets are taken from https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 
 ## Installation
 
@@ -15,10 +12,13 @@ pip install numpy
 pip install pandas
 pip install matplotlib
 pip install seaborn
+pip install sklearn
+pip install imblearn
+pip install pylab
 ```
 
 ## Program Execution
 Run the Jupyter Notebook
 ```bash
-Data Analysis on Ischaemic Heart Disease.ipynb
+Heart Disease Prediction.ipynb
 ```
