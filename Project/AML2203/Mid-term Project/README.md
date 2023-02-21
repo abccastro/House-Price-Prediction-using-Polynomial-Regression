@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-Created a model to get the probability of heart disease given the key indicators of the illness. Logistic Regression algorithm is used to train and test the model.
+A model was generated to estimate the probability of heart disease based on key indicators of the condition. The model was developed and evaluated using the Logistic Regression algorithm.
 
 The datasets are taken from https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 
