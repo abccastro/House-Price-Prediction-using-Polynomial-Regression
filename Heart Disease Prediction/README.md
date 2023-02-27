@@ -15,7 +15,7 @@ This program used logistic regression algorithm to develop and train the model t
 - Doing physical activity or exercise during the past 30 days other than the regular job
 - General health condition (Poor, Fair, Good, Very Good or Excellent)
 
-The dataset were obtained from the website https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease. We created synthetic samples as well to balance the data distribution of the predictor class.
+The dataset were obtained from the website https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease. We created synthetic samples as well to balance the data distribution among the predictor class.
 
 ## Installation
 
