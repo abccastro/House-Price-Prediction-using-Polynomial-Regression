@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-This program used logistic regression algorithm to develop and train the model that could estimate the likelihood of heart disease based on important indicators associated with the condition. The model was evaluated for its accuracy, precision, recall and auc scores. 
+This program used logistic regression algorithm to develop and train the model that could estimate the likelihood of heart disease based on important indicators associated with the condition. The model was then evaluated for its accuracy, precision, recall and auc scores. 
 
 - Sex (Male or Female)
 - Age Category
