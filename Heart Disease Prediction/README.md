@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-This program used logistic regression algorithm to develop and train the model that could estimate the likelihood of heart disease based on important indicators associated with the condition.
+This program used logistic regression algorithm to develop and train the model that could estimate the likelihood of heart disease based on important indicators associated with the condition. The model was evaluated for its accuracy, precision, recall and auc scores. 
 
 - Sex (Male or Female)
 - Age Category
@@ -15,7 +15,7 @@ This program used logistic regression algorithm to develop and train the model t
 - Doing physical activity or exercise during the past 30 days other than the regular job
 - General health condition (Poor, Fair, Good, Very Good or Excellent)
 
-The datasets were obtained from the website https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+The dataset were obtained from the website https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease. We created synthetic samples as well to balance the data distribution of the predictor class.
 
 ## Installation
 
