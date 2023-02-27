@@ -6,7 +6,7 @@ This program used logistic regression algorithm to develop and train the model t
 - Age Category
 - Imputed race/ethnicity value (American Indian/ALaskan Native, Asian, Black, Hispanic, White and Other)
 - Body Mass Index (BMI)
-- Smoker (at least 100 cigarettes in his entire life? 
+- Smoker (at least 100 cigarettes in his entire life)
 - Heavy drinker
   - For adult men: having more than 14 drinks per week
   - For adult women: having more than 7 drinks per week
