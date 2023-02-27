@@ -4,7 +4,7 @@ This program has used logistic regression algorithm to develop and train the mod
 
 - Sex (Male or Female)
 - Age Category
-- Imputed race/ethnicity value (American Indian/ALaskan Native, Asian, Black, Hispanic, White and Other)
+- Imputed race/ethnicity value (American Indian/Alaskan Native, Asian, Black, Hispanic, White and Other)
 - Body Mass Index (BMI)
 - Smoker (at least 100 cigarettes in his entire life)
 - Heavy drinker
