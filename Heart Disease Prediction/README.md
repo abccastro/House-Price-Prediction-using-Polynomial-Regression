@@ -19,7 +19,7 @@ The dataset were obtained from the website https://www.kaggle.com/datasets/kamil
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following Python packages
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following Python packages.
 ```bash
 pip install numpy
 pip install pandas
