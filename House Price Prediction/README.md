@@ -1,24 +1,24 @@
 # House Price Prediction for King County, USA
 
-A polynomial regression algorithm was utilized to develop and assess a model that could predict the house prices in King County, USA based on the given house information.
+The program has used polynomial regression algorithm to develop and train the model that could predict the house prices in King County, USA based on the given house information. The model was then evaluated using R-squared, MAE, MSE and RMSE metrics.
 
 - Number of bedrooms
-- Number of bathrooms (full bathroom)
+- Number of bathrooms
 - Number of floors
 - Is overlooking the waterfront?
-- The year the house was initially built
-- The year of the house’s last renovation
-- An index from 0 to 4 of how good the view of the property was
-- An index from 1 to 5 on the condition of the apartment
-- An index from 1 to 13, where 1-3 falls short of building construction and design, 7 has an average level of construction and design, and 11-13 have a high quality level of construction and design.
-- Square footage of the apartments interior living space
+- Year the house was initially built
+- Year the house was last renovated
+- View of the property (index from 0 to 4)?
+- Condition of the house (index from 1 to 5)
+- Construction and design (index from 1 to 13)
+- Square footage of the house's interior living space
 - Square footage of the land space
 - Square footage of the interior housing space that is above ground level
 - Square footage of the interior housing space that is below ground level
-- Square footage of interior housing living space for the nearest 15 neighbors
+- Square footage of the interior housing living space for the nearest 15 neighbors
 - Square footage of the land lots of the nearest 15 neighbors
 - Lattitude
--  Longitude
+- Longitude
 
 The datasets were obtained from the website https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
@@ -33,7 +33,7 @@ pip install seaborn
 ```
 
 ## Program Execution
-Run the Jupyter Notebook
+Launch the Jupyter Notebook
 ```bash
 King County House Prediction.ipynb
 ```
