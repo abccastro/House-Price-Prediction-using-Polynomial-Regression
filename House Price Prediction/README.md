@@ -20,7 +20,7 @@ The program has used polynomial regression algorithm to develop and train the mo
 - Lattitude
 - Longitude
 
-The datasets were obtained from the website https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+The datasets were obtained from the website https://www.kaggle.com/datasets/harlfoxem/housesalesprediction.
 
 ## Installation
 
