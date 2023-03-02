@@ -8,7 +8,7 @@ The program has used polynomial regression algorithm to develop and train the mo
 - Is overlooking the waterfront?
 - Year the house was initially built
 - Year the house was last renovated
-- View of the property (index from 0 to 4)?
+- View of the property (index from 0 to 4)
 - Condition of the house (index from 1 to 5)
 - Construction and design (index from 1 to 13)
 - Square footage of the house's interior living space
