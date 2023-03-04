@@ -24,7 +24,7 @@ The datasets were obtained from the website https://www.kaggle.com/datasets/harl
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following packages
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following packages.
 ```bash
 pip install numpy
 pip install pandas
