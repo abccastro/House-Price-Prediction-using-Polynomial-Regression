@@ -1,6 +1,6 @@
 # Anime Recommendation System
 
-The dataset was web scraped from MyAnimeList. See "MyAnimeList Web Scraping.ipynb" for more information.
+The datasets were web scraped from MyAnimeList. See "MyAnimeList Web Scraping.ipynb" for more information.
 
 ## Installation
 
