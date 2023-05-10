@@ -38,10 +38,3 @@ Launch the Jupyter Notebook
 ```bash
 King County House Prediction.ipynb
 ```
-
-## Group 7 Members
-- Auradee Castro
-- Miraj Sinya
-- Amrita Gyawali
-- Yajur Sethi
-- Sharon Victor
